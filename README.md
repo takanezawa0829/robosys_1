@@ -1,5 +1,6 @@
 # robosys_1
 作者 Ryuichi Ueda、Takumu Takanezawa
+
 こちらのプログラムはGPLライセンスとなっています。
 
 # 説明
