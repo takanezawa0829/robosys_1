@@ -1,1 +1,0 @@
-cmd_/home/ubuntu/Documents/robot_system/1028/myled.ko := ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o /home/ubuntu/Documents/robot_system/1028/myled.ko /home/ubuntu/Documents/robot_system/1028/myled.o /home/ubuntu/Documents/robot_system/1028/myled.mod.o;  true
